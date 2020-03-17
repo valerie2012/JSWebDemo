@@ -17,7 +17,7 @@ Once the installation is done, you can test to see both node and npm functioning
 
 Use the npm init command to create a package.json file for your application. <br/>
 
-Install the following node.js modules for the APIs (To be used at backend Javascript codes (controller.js)). <br/>
+Install the following node.js modules for the backend Javascript codes (controller.js). <br/>
 
 <strong> express </strong> <br/>
 https://www.npmjs.com/package/express <br/>
