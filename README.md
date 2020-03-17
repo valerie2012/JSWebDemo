@@ -11,11 +11,11 @@ Website: https://www.apachefriends.org/index.html
 Node.js and npm can be installed from Node installation page (https://nodejs.org/en/download/). <br/>
 Download the Node installer. <br/>
 
-Once the installation is done, you can test to see both node and npm functioning by opening Terminal (or any shell) and typenode -v and npm -v, which will check the version number.
+Once the installation is done, you can test to see both node and npm functioning by opening Terminal (or any shell) and type node -v and npm -v, which will check the version number.
 
 <img src="images/VersionNumber.png" width="50%" height="50%"> <br/>
 
-Use the npm init command to create a package.json file for your application. <br/>
+Use the <strong>npm init</strong> command to create a package.json file for your application. <br/>
 
 Install the following node.js modules for the backend Javascript codes (controller.js). <br/>
 
