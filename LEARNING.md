@@ -16,7 +16,19 @@ Controllers act as an interface between Model and View components to process all
 I have better understanding in Javascript backend codes (Node.js) and frontend codes (React.js).
 There is alot of improvement in troubleshooting of Javascript codes. 
 
+Firstly,
+Upon received the problem. i sat down to look for terminology first so that i can do some research on how development was done. 
+
+Secondly,
+I look at what are the possible designs. There are many ways to do development. How we do the coding during development can change the initial thinking and design of the problem. During the development it allows us to think critical especially during troubleshooting. Troubleshooting can change the flow of development and allows us to learn the lessson of coding in better ways. 
 
 <b>Prior Experience </b>
-Linux Commands: Using Terminal to install modules. 
-Node.js, React.js is not a new technology for me to learn. As i have done a brief and short application in javascript before. I can jump to install Node.js and npm immediately follow by other modules.  
+Linux Commands: Using Terminal to install modules. I am using Linux commands in my current job. I am able to use the Terminal immediately as the commands are familiar to me. 
+Node.js, React.js is not a new technology for me to learn. As i have instlled Node.js and some modules before in my previous company. I can install Node.js and npm immediately follow by other modules and i know modules are required for Javascript. As this is the nature of Javascript. 
+
+I have choose to use Modal Dialogs as it bring clear attention to the users and it is much faster than loading to another webpage which may take additional time. 
+
+<b> Difficulties/Troubleshooting </b>
+
+
+
