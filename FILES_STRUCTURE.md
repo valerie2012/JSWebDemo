@@ -5,5 +5,6 @@ Details of <b> table </b> folder. <br/>
 
 <img src="images/Build.png" width="50%" height="50%"> <br/>
 <img src="images/Node_modules.png" width="50%" height="50%"> <br/>
+<img src="images/Public.png" width="50%" height="50%"> <br/>
 <img src="images/Src.png" width="50%" height="50%"> <br/>
 
