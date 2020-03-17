@@ -22,13 +22,18 @@ Upon received the problem. i sat down to look for terminology first so that i ca
 Secondly,
 I look at what are the possible designs. There are many ways to do development. How we do the coding during development can change the initial thinking and design of the problem. During the development it allows us to think critical especially during troubleshooting. Troubleshooting can change the flow of development and allows us to learn the lessson of coding in better ways. 
 
-<b>Prior Experience </b>
+<I>Prior Experience </I>
 Linux Commands: Using Terminal to install modules. I am using Linux commands in my current job. I am able to use the Terminal immediately as the commands are familiar to me. 
 Node.js, React.js is not a new technology for me to learn. As i have instlled Node.js and some modules before in my previous company. I can install Node.js and npm immediately follow by other modules and i know modules are required for Javascript. As this is the nature of Javascript. 
 
 I have choose to use Modal Dialogs as it bring clear attention to the users and it is much faster than loading to another webpage which may take additional time. 
 
 <b> Difficulties/Troubleshooting </b>
+One of the memorables error is "require", it is not supported in browsers like Chrome etc. Use Inspector (F12) in Chrome browser able to see the error.
 
+"cachedCwd = rawMethods.cwd(); --> This is another error found in Terminal. Restart the pc or clear the cache will help to solve the error. 
 
+Best tool to use for troubleshooting is F12. Always use this for see erros on the websites. :) 
+
+There are many ways to do Javascript codes. During this development duration, i discover Sequelize | Sequelize ORM. It is one of the powerful library in Javascript to manage SQL database. There are many ways to use Javascript to manage SQL or MySQL database. I am using Knex in baseModel.js. 
 
