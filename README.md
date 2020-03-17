@@ -75,5 +75,19 @@ Run the following commands at Terminal (or any shell) to install Homebew MySQL.<
 Set "user" as "root" and "password" as "root" <br/>
 <b> Note: </b> It is okay to set "root" for both user and password as this is just assessment. <br/>
 
+Run <b>"mysql"</b> to start MySQL Service. <br/>
+<img src="images/MySQL.png" width="70%" height="70%"> <br/>
+
+Run the following command to create database <b>"nameregister"</b>. <br/>
+<img src="images/Create_DB.png" width="70%" height="70%"> <br/>
+
+Run the following command to select database. <br/>
+<img src="images/Use_DB.png" width="70%" height="70%"> <br/>
+
+Run the following command to create table "names". <br/>
+<img src="images/Create_Table.png" width="70%" height="70%"> <br/>
+
+
+
 
 
