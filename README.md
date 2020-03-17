@@ -14,14 +14,13 @@ Download the Node installer. <br/>
 Once the installation is done, you can test to see both node and npm functioning by opening Terminal (or any shell) and type node -v and npm -v, which will check the version number.
 
 <img src="images/VersionNumber.png" width="50%" height="50%"> <br/>
-
 Use the <strong>npm init</strong> command to create a package.json file for your application. <br/>
 
 Install the following node.js modules for the backend Javascript codes (controller.js). <br/>
 
 <strong> express </strong> <br/>
 https://www.npmjs.com/package/express <br/>
-npm install express
+<img src="images/Npm_express.png" width="50%" height="50%"> <br/>
 
 <strong> body-parser </strong> <br/>
 https://www.npmjs.com/package/body-parser <br/>
