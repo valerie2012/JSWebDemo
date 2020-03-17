@@ -27,10 +27,10 @@ https://www.npmjs.com/package/express <br/>
 https://www.npmjs.com/package/body-parser <br/>
 <img src="images/Npm_body_parser.png" width="50%" height="50%"> <br/>
 
-<strong> cors </strong> <br/>
-https://www.npmjs.com/package/urlencoded-parser <br/>
-npm install urlencoded-parser
-
 <strong> urlencoded-parser </strong> <br/>
+https://www.npmjs.com/package/urlencoded-parser <br/>
+<img src="images/Npm_urlencoded_parser.png" width="50%" height="50%"> <br/>
+
+<strong> cors </strong> <br/>
 https://www.npmjs.com/package/cors <br/>
-npm install cors
+<img src="images/Npm_cors.png" width="50%" height="50%"> <br/>
