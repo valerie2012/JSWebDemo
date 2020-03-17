@@ -91,4 +91,15 @@ Run the following command to view structure of <b>"names"</b> table. <br/>
 <img src="images/DB_structure.png" width="70%" height="70%"> <br/>
 
 
+<H2> Run Website </H2>
+
+<H4> Run Node.js </H4>
+<img src="images/Run_node.png" width="70%" height="70%"> <br/>
+
+<H4> Website Link </H4>
+Paste URL <b>http://localhost:8080/dashboard/public/view.html </b> in browser. <br/>
+<img src="images/Localhost.png" width="70%" height="70%"> <br/>
+
+<H4> Run React </H4>
+<img src="images/React.png" width="70%" height="70%"> <br/>
 
