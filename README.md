@@ -55,8 +55,13 @@ Website: https://reactjs.org/docs/create-a-new-react-app.html
 
 <strong> Key Creation Steps </strong> <br/>
 
-Run the following commands at the Terminal (or any shell). <br/>
+Please create a folder "react" first. <br/>
+Run the following commands <br/>
 <img src="images/Npx.png" width="50%" height="50%"> <br/>
+
+Navigate to the path "dashboard/react/table/src" <br/>
+Open "App.js" at any IDE tool <br/>
+Write Reactjs Table codes in App.js <br/>
 <img src="images/Npm_run_build.png" width="70%" height="70%"> <br/>
 
 
