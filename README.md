@@ -15,6 +15,7 @@ Once the installation is done, you can test to see both node and npm functioning
 
 <img src="images/VersionNumber.png" width="50%" height="50%"> <br/>
 Use the <strong>npm init</strong> command to create a package.json file for your application. <br/>
+<img src="images/Npm_init.png" width="50%" height="50%"> <br/>
 
 Install the following node.js modules for the backend Javascript codes (controller.js). <br/>
 
@@ -24,8 +25,7 @@ https://www.npmjs.com/package/express <br/>
 
 <strong> body-parser </strong> <br/>
 https://www.npmjs.com/package/body-parser <br/>
-npm install body-parser
-
+<img src="images/Npm_body_parser.png" width="50%" height="50%"> <br/>
 
 <strong> cors </strong> <br/>
 https://www.npmjs.com/package/urlencoded-parser <br/>
