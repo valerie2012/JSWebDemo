@@ -72,8 +72,8 @@ Run <strong>"npm run build"</strong> command <br/>
 Run the following commands at Terminal (or any shell) to install Homebew MySQL.<br/>
 <img src="images/Homebrew_cmd.png" width="70%" height="70%"> <br/>
 <img src="images/Homebrew_cmd2.png" width="70%" height="70%"> <br/>
-Set "user" as "root" and "password" as "root" <br/>
-<b> Note: </b> It is okay to set "root" for both user and password as this is just assessment. <br/>
+Set <b>"user"</b> as <b>"root"</b> and <b>"password"</b> as <b>"root"</b> <br/>
+<b> Note: </b> It is okay to set <b>"root"</b> for both <b>user</b> and <b>password</b> as this is just assessment. <br/>
 
 Run <b>"mysql"</b> to start MySQL Service. <br/>
 <img src="images/MySQL.png" width="70%" height="70%"> <br/>
