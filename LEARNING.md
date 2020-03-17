@@ -52,6 +52,7 @@ Alot of times spent on researching errors online and do step by step troubleshoo
 
 When come to Javscript development, we got to think in "Modules". It helps in troubleshooting Javascript codes. 
 
+<b>Note</b>
 Got to allocate few hours doing research, watch youtube videos and read blogs in the middle of the weekday nights as i got to work during the day and studying for my exam during evening time. Spent half of the time doing this development and spend half of the time studying for my exam during weekend. I got manage my time well in order to make use of the time. 
 
 
