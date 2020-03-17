@@ -1,6 +1,6 @@
 <h2> Design Choice </h2>
 Choose Model View Controller (MVC) framework as it is the best practice. <br/>
-MVC.png
+<img src="images/MVC.png" width="50%" height="50%"> <br/>
 <b> Example </b> <br/>
 
 <b> View </b> 
