@@ -84,7 +84,7 @@ Run the following command to create database <b>"nameregister"</b>. <br/>
 Run the following command to select database. <br/>
 <img src="images/Use_DB.png" width="70%" height="70%"> <br/>
 
-Run the following command to create table "names". <br/>
+Run the following command to create table <b>"names"</b> with <b> "ID" </b> & <b>"Name"</b>. <br/>
 <img src="images/Create_Table.png" width="70%" height="70%"> <br/>
 
 
