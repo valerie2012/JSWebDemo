@@ -56,6 +56,7 @@ Website: https://reactjs.org/docs/create-a-new-react-app.html
 <strong> Key Creation Steps </strong> <br/>
 
 Run the following commands at the Terminal (or any shell). <br/>
+<img src="images/Npx.png" width="50%" height="50%"> <br/>
 <img src="images/Npm_run_build.png" width="50%" height="50%"> <br/>
 
-<img src="images/Npx.png" width="50%" height="50%"> <br/>
+
