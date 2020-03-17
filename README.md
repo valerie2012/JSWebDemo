@@ -101,5 +101,6 @@ Paste URL <b>http://localhost:8080/dashboard/public/view.html </b> in browser. <
 <img src="images/Localhost.png" width="70%" height="70%"> <br/>
 
 <H4> Run React </H4>
+Paste URL <b> http://localhost:8080/table/ </b> in browser. <br/>
 <img src="images/React.png" width="70%" height="70%"> <br/>
 
