@@ -7,10 +7,10 @@ Choose Model View Controller (MVC) framework as it is the best practice. <br/>
 The View component is used for all the UI of the application. The UI components such as text boxes, dropdowns, etc. Is the webpage that users interacts with.
 
 <b> Model </b> <br/>
-The Model represent either the data that is being transferred between the View and Controller components or any other business logic-related data. Retrieve, insert, update and delete information from/to the database. 
+The Model represent the data that is being transferred between the View and Controller components. Retrieve, insert, update and delete information from/to the database. 
 
 <b> Controller </b> <br/>
-Controllers act as an interface between Model and View components to process all the logic and incoming requests, manipulate data using the Model component and interact with the Views to render the final output. Controller will take in the incoming requests from the users and update the database (Model). 
+Controllers act as an interface between Model and View components to process all the logic, manipulate data using the Model component and interact with the Views to render the final output. Controller will take in the incoming requests from the users and update the database (Model). 
 
 <b> Learning Journey </b> <br/>
 I have better understanding in Javascript backend codes (Node.js) and frontend codes (React.js).
@@ -24,22 +24,20 @@ I look at what are the possible designs. There are many ways to do designs. How 
 
 During this development duration, i discover Sequelize | Sequelize ORM. It is one of the powerful library in Javascript to manage SQL database. There are many ways to use Javascript to manage SQL or MySQL database. I am using Knex in baseModel.js. 
 
-I get to do development on JSX – React. 
-
 <b>JSX – React </b> <br/>
-I went to do some research on JSX-React and find the ReactJS website. It does not took me long to start working on React. I learn on how to get started on using ReactJS immediately after reading some "Getting Started" guide. I decided to use JSX and i know html code can be include in ReactJS codes also. 
+I went to do some research on JSX-React and find the ReactJS website. It does not took me long to start working on React. I learn on how to get started on using ReactJS immediately after reading some "Getting Started" guide. I decided to use JSX and i know HTML code can be included in ReactJS codes also. 
 
-I did not include Reactjs table component to the HTML file in time yet as i was busy with two things 1. Studying and taking my security exam 2. Doing developement of Javascript backend codes and HTML file. 
+I did not include Reactjs table component to the HTML file in time yet as i was busy with two things 1. Studying and taking my security exam at the sametime 2. Doing developement and troubleshooting of Javascript backend codes (controller.js & basdemodel.js).
 
-Reactjs use default port 3000 as Node.js also use port 3000. Try "3001, "3002" or "8080" port on the URL. It will use one of the port. 
+Reactjs use default port 3000 as Node.js is using port 3000 as well. Try "3001, "3002" or "8080" port on the URL. It will use one of the port. In order for the website to work, i have to "node controller.js" first thus Node.js using port 3000. 
 
-Keyword for ReactJS is Render. 
+For ReactJS is "Render" in most of the codes.  
 
 <b>Prior Experience </b> <br/>
 Linux Commands: Using Terminal to install modules. I am using Linux commands in my current job. I am able to use the Terminal immediately as the commands are familiar to me. 
-Node.js is not a new thing for me to learn. As i have instlled Node.js and some modules before in my previous company. I can install Node.js and npm immediately follow by other modules and i know modules are required for Javascript. As this is the nature of Javascript.
+Node.js is not a new thing for me to learn. As i have instlled Node.js and some modules before in my previous company. I can install Node.js and npm immediately follow by other modules and i know modules are required for Javascript. As this is the basic of Javascript. 
 
-I have choose to use Modal Dialogs as it bring clear attention to the users and it is much faster than loading to another webpage which may take additional time. 
+I have choosen to use Modal Dialogs as it bring clear attention to the users and it is much faster than loading to another webpage which may take additional time. 
 
 <b> Difficulties/Troubleshooting </b> <br/>
 One of the memorables error is "require", it is not supported in browsers like Chrome etc. Use Inspector (F12) in Chrome browser able to see the error.
