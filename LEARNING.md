@@ -31,7 +31,7 @@ I did not include Reactjs table component to the HTML file in time yet as i was 
 
 Reactjs use default port 3000 as Node.js is using port 3000 as well. Try "3001, "3002" or "8080" port on the URL. It will use one of the port. In order for the website to work, i have to "node controller.js" first thus Node.js using port 3000. 
 
-For ReactJS is "Render" in most of the codes.  
+For ReactJS is "Render" in most of the codes. I have manage to retrieve the data from MySQl database and display in App.js (React). New names added to databse also reflected on App.js. 
 
 <b>Prior Experience </b> <br/>
 Linux Commands: Using Terminal to install modules. I am using Linux commands in my current job. I am able to use the Terminal immediately as the commands are familiar to me. 
