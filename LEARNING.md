@@ -22,7 +22,7 @@ Upon received the problem. i sat down to look for terminology first so that i ca
 Secondly,
 I look at what are the possible designs. There are many ways to do development. How we do the coding during development can change the initial thinking and design of the problem. During the development it allows us to think critical especially during troubleshooting. Troubleshooting can change the flow of development and allows us to learn the lessson of coding in better ways. 
 
-<U>Prior Experience </U> <br/>
+<u>Prior Experience </u> <br/>
 Linux Commands: Using Terminal to install modules. I am using Linux commands in my current job. I am able to use the Terminal immediately as the commands are familiar to me. 
 Node.js, React.js is not a new technology for me to learn. As i have instlled Node.js and some modules before in my previous company. I can install Node.js and npm immediately follow by other modules and i know modules are required for Javascript. As this is the nature of Javascript. 
 
