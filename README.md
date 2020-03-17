@@ -62,7 +62,7 @@ Run the following commands <br/>
 Navigate to the path "dashboard/react/table/src" <br/>
 Open "App.js" at any IDE tool <br/>
 Write Reactjs Table codes in App.js <br/>
-Run "npm run build" command <br/>
+Run <strong>"npm run build"</strong> command <br/>
 <img src="images/Npm_run_build.png" width="70%" height="70%"> <br/>
 <strong> Note: </strong> "npm build" command change to "npm run build" command <br/>
 
