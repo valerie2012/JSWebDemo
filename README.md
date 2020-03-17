@@ -87,7 +87,8 @@ Run the following command to select database. <br/>
 Run the following command to create table <b>"names"</b> with <b> "ID" </b> & <b>"Name"</b> columns. <br/>
 <img src="images/Create_Table.png" width="70%" height="70%"> <br/>
 
-
+Run the following command to view structure of <b>"names"</b> table. <br/>
+<img src="images/DB_structure.png" width="70%" height="70%"> <br/>
 
 
 
