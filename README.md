@@ -6,18 +6,18 @@ JSWebDemo
 <strong> Operating System: MacOS </strong> <br/>
 
 <strong>XAMPP</strong> <br/>
-Website: https://www.apachefriends.org/index.html
+Website: https://www.apachefriends.org/index.html <br/>
 
-1. Start the XAMPP
+1. Start the XAMPP <br/>
 <img src="images/Start_XAMPP.png" width="50%" height="50%"> <br/>
 
-2. Start the required stack services
+2. Start the required stack services <br/>
 <img src="images/Start_SS.png" width="50%" height="50%"> <br/>
 
-3. Enable the port fowarding rules
+3. Enable the port fowarding rules <br/>
 <img src="images/Start_port.png" width="50%" height="50%"> <br/>
 
-4. Click "Mount" to acess the "htdocs" folder in the directory
+4. Click "Mount" to acess the "htdocs" folder in the directory <br/>
 <img src="images/Start_mount.png" width="50%" height="50%"> <br/>
 
 <img src="images/Start_mount2.png" width="50%" height="50%"> <br/>
