@@ -3,16 +3,16 @@ Choose Model View Controller (MVC) framework as it is the best practice. <br/>
 <img src="images/MVC.png" width="50%" height="50%"> <br/>
 <b> Example </b> 
 
-<b> View </b> 
+<b> View </b> <br/>
 The View component is used for all the UI of the application. The UI components such as text boxes, dropdowns, etc. Is the webpage that users interacts with.
 
-<b> Model </b> 
+<b> Model </b> <br/>
 The Model represent either the data that is being transferred between the View and Controller components or any other business logic-related data. Retrieve, insert, update and delete information from/to the database. 
 
-<b> Controller </b> 
+<b> Controller </b> <br/>
 Controllers act as an interface between Model and View components to process all the logic and incoming requests, manipulate data using the Model component and interact with the Views to render the final output. Controller will take in the incoming requests from the users and update the database (Model). 
 
-<b> Learning Journey </b> 
+<b> Learning Journey </b> <br/>
 I have better understanding in Javascript backend codes (Node.js) and frontend codes (React.js).
 There is alot of improvement in troubleshooting of Javascript codes. 
 
@@ -22,13 +22,13 @@ Upon received the problem. i sat down to look for terminology first so that i ca
 Secondly,
 I look at what are the possible designs. There are many ways to do development. How we do the coding during development can change the initial thinking and design of the problem. During the development it allows us to think critical especially during troubleshooting. Troubleshooting can change the flow of development and allows us to learn the lessson of coding in better ways. 
 
-<I>Prior Experience </I>
+<U>Prior Experience </U> <br/>
 Linux Commands: Using Terminal to install modules. I am using Linux commands in my current job. I am able to use the Terminal immediately as the commands are familiar to me. 
 Node.js, React.js is not a new technology for me to learn. As i have instlled Node.js and some modules before in my previous company. I can install Node.js and npm immediately follow by other modules and i know modules are required for Javascript. As this is the nature of Javascript. 
 
 I have choose to use Modal Dialogs as it bring clear attention to the users and it is much faster than loading to another webpage which may take additional time. 
 
-<b> Difficulties/Troubleshooting </b>
+<b> Difficulties/Troubleshooting </b> <br/>
 One of the memorables error is "require", it is not supported in browsers like Chrome etc. Use Inspector (F12) in Chrome browser able to see the error.
 
 "cachedCwd = rawMethods.cwd(); --> This is another error found in Terminal. Restart the pc or clear the cache will help to solve the error. 
