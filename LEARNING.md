@@ -12,6 +12,12 @@ The Model represent the data that is being transferred between the View and Cont
 <b> Controller </b> <br/>
 Controllers act as an interface between Model and View components to process all the logic, manipulate data using the Model component and interact with the Views to render the final output. Controller will take in the incoming requests from the users and update the database (Model). 
 
+<b>Prior Experience </b> <br/>
+Linux Commands: Using Terminal to install modules. I am using Linux commands in my current job. I am able to use the Terminal immediately as the commands are familiar to me. 
+Node.js is not a new thing for me to learn. As i have instlled Node.js and some modules before in my previous company. I can install Node.js and npm immediately follow by other modules and i know modules are required for Javascript. As this is the basic of Javascript. 
+
+I have choosen to use Modal Dialogs as it bring clear attention to the users and it is much faster than loading to another webpage which may take additional time. 
+
 <b> Learning Journey </b> <br/>
 I have better understanding in Javascript backend codes (Node.js) and frontend codes (React.js).
 There is alot of improvement in troubleshooting of Javascript codes during this develpoment period. 
@@ -32,12 +38,6 @@ I did not include Reactjs table component to the HTML file in time yet as i was 
 Reactjs use default port 3000 as Node.js is using port 3000 as well. Try "3001, "3002" or "8080" port on the URL. It will use one of the port. In order for the website to work, i have to "node controller.js" first thus Node.js using port 3000. 
 
 For ReactJS is "Render" in most of the codes. I have manage to retrieve the data from MySQl database and display in App.js (React). New names added to databse also reflected on App.js. 
-
-<b>Prior Experience </b> <br/>
-Linux Commands: Using Terminal to install modules. I am using Linux commands in my current job. I am able to use the Terminal immediately as the commands are familiar to me. 
-Node.js is not a new thing for me to learn. As i have instlled Node.js and some modules before in my previous company. I can install Node.js and npm immediately follow by other modules and i know modules are required for Javascript. As this is the basic of Javascript. 
-
-I have choosen to use Modal Dialogs as it bring clear attention to the users and it is much faster than loading to another webpage which may take additional time. 
 
 <b> Difficulties/Troubleshooting </b> <br/>
 One of the memorables error is "require", it is not supported in browsers like Chrome etc. Use Inspector (F12) in Chrome browser able to see the error.
