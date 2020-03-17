@@ -29,6 +29,10 @@ I get to do development on JSX – React.
 <b>JSX – React </b> <br/>
 I went to do some research on JSX-React and find the ReactJS website. It does not took me long to start working on React. I learn on how to get started on using ReactJS immediately after reading some "Getting Started" guide. I decided to use JSX and i know html code can be include in ReactJS codes also. 
 
+I did not include Reactjs table component to the HTML file in time yet as i was busy with two things 1. Studying and taking my security exam 2. Doing developement of Javascript backend codes and HTML file. 
+
+Reactjs use default port 3000 as Node.js also use port 3000. Try "3001, "3002" or "8080" port on the URL. It will use one of the port. 
+
 Keyword for ReactJS is Render. 
 
 <b>Prior Experience </b> <br/>
@@ -49,5 +53,7 @@ I came errors during troubleshooting of Javascript but i forgot to write it down
 Alot of times spent on researching errors online and do step by step troubleshooting to find the root cause. 
 
 When come to Javscript development, we got to think in "Modules". It helps in troubleshooting Javascript codes. 
+
+Got to allocate few hours doing research, watch youtube videos and read blogs in the middle of the weekday nights as i got to work during the day and studying for my exam during evening time. Spent half of the time doing this development and spend half of the time studying for my exam during weekend. I got manage my time well in order to make use of the time. 
 
 
