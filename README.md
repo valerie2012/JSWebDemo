@@ -3,10 +3,24 @@ JSWebDemo
 
 <H2> Installation Steps </H2>
 
-Operating System: MacOS <br/>
+<strong> Operating System: MacOS </strong> <br/>
 
 <strong>XAMPP</strong> <br/>
 Website: https://www.apachefriends.org/index.html
+
+1. Start the XAMPP
+<img src="images/Start_XAMPP.png" width="50%" height="50%"> <br/>
+
+2. Start the required stack services
+<img src="images/Start_SS.png" width="50%" height="50%"> <br/>
+
+3. Enable the port fowarding rules
+<img src="images/Start_port.png" width="50%" height="50%"> <br/>
+
+4. Click "Mount" to acess the "htdocs" folder in the directory
+<img src="images/Start_mount.png" width="50%" height="50%"> <br/>
+
+<img src="images/Start_mount2.png" width="50%" height="50%"> <br/>
 
 Node.js and npm can be installed from Node installation page (https://nodejs.org/en/download/). <br/>
 Download the Node installer. <br/>
