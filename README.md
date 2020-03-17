@@ -66,4 +66,6 @@ Run <strong>"npm run build"</strong> command <br/>
 <img src="images/Npm_run_build.png" width="70%" height="70%"> <br/>
 <strong> Note: </strong> "npm build" command change to "npm run build" command <br/>
 
+<H4> Homebrew MySQL </H4>
+<strong> Install HomeBrew MySQL </strong>
 
