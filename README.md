@@ -68,7 +68,7 @@ Run <strong>"npm run build"</strong> command <br/>
 
 <H4> Homebrew MySQL </H4>
 <strong> Install HomeBrew MySQL </strong> <br/>
-<strong> Website: </strong> https://brew.sh/ <br/>
+<strong> Website: </strong> https://brew.sh/ <p></p>
 Run the following commands at Terminal (or any shell) <br/>
 <img src="images/Homebrew_cmd.png" width="70%" height="70%"> <br/>
 <img src="images/Homebrew_cmd2.png" width="70%" height="70%"> <br/>
