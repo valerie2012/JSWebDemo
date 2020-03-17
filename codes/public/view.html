@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="StyleSheet.css"> <!-- External Stylesheet-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+  <script>
+    function sendData(e) {
+      var fname = $('#fname')[0].value
+      console.log(fname)
+      $.post('http://127.0.0.1:3000/user', { hello: fname }, function (data) {
+        console.log('resposne: ', data)
+      })
+
+    }
+
+    /*function deleteName(e) {
+
+      var fname = $('#fname')[0].value
+      console.log(fname)
+
+      $.post('http://127.0.0.1:3000/user', {hello: fname},function(data){
+        console.log('resposne: ', data)  //delete icon
+      })
+
+    }
+
+    function updateName(e) {
+
+      var fname = $('#fname')[0].value
+      console.log(fname)
+
+      //duplicate function with edit codes
+      $.post('http://127.0.0.1:3000/user', {hello: fname},function(data){
+        console.log('resposne: ', data)  //edit icon
+      })
+
+      } */
+
+
+
+  </script>
+
+</head>
+
+<body>
+  <h1 align="center">Name Registration Webpage</h1>
+  <p>Please add your name to register to database!</p>
+
+  <div class="menu">
+    <svg>
+      <!-- Button 1-->
+      <g>
+        <a href="https://www.javascript.com/">
+          <rect x="20" y="50" width="500" height="300" fill="green" style="fill:rgb(0,0,255);stroke-width:3"> </rect>
+          <image href="images/map.svg" x="130" y="70" height="50" width="50" />
+          <text x="100" y="145 ">Javascript Website</text>
+        </a>
+      </g>
+    </svg>
+    <svg>
+      <!-- Button 2-->
+      <g>
+        <a href="https://reactjs.org/">
+          <rect x="20" y="50" width="500" height="300" fill="green" style="fill:rgb(50,205,50);stroke-width:3"> </rect>
+          <image href="images/thumbs-up.svg" x="130" y="70" height="50" width="50" />
+          <text x="100" y="145 ">Reactjs Website</text>
+        </a>
+      </g>
+    </svg>
+    <svg>
+      <!-- Button 3-->
+      <g>
+        <a href="https://www.mysql.com/">
+          <rect x="20" y="50" width="500" height="300" fill="green" style="fill:rgb(255,0,0);stroke-width:3"> </rect>
+          <image href="images/smile.svg" x="130" y="70" height="50" width="50" />
+          <text x="125" y="145 ">MySQL</text>
+        </a>
+      </g>
+    </svg>
+  </div>
+  <form name="form_name" method="GET">
+    <table style="width:100%" id="dataTable" class="tableRow" class="table">
+      <tr>
+        <th>Name</th>
+        <th>Edit</th>
+        <th>Delete</th>
+      </tr>
+      <tr>
+        <td id=nameValue></label></td>
+        <td><input type="image" src="images/edit.svg" height="50" width="50" style="background-color:yellow;" /></td>
+        <td><input type="image" src="images/trash-alt.svg" height="50" width="50" style="background-color: red" /></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td><button type="button" id="btnAddName" class="addnamebutton" data-toggle="modal" data-target="#myModal">Add
+            Name</button></td>
+        <td></td>
+      </tr>
+    </table>
+
+    <!-- Modal for inserting name-->
+    <div class="modal fade" id="myModal" role="dialog">
+      <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h3>Add New Name to database</h3>
+          </div>
+          <div class="modal-body">
+            <p>
+              <label>Name:</label>
+              <input type="text" id="fname" name="jsname">
+            </p>
+          </div>
+          <div class="modal-footer">
+            <!-- <input onclick="submit()" type="button" value="Submit"> -->
+            <button type="button" class="btn btn-default" data-dismiss="modal" onclick="sendData()">Submit</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</body>
+
+</html>
