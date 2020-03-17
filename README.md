@@ -3,9 +3,9 @@ JSWebDemo
 
 <H2> Installation Steps </H2>
 
-<strong> Operating System: MacOS </strong> <br/>
+<H4> Operating System: MacOS </H4> <br/>
 
-<strong>XAMPP</strong> <br/>
+<H4>XAMPP</H4> <br/>
 Website: https://www.apachefriends.org/index.html <br/>
 
 1. Start the XAMPP <br/>
@@ -22,6 +22,7 @@ Website: https://www.apachefriends.org/index.html <br/>
 
 <img src="images/Start_mount2.png" width="50%" height="50%"> <br/>
 
+<H4> Node.js</H4> <br/>
 Node.js and npm can be installed from Node installation page (https://nodejs.org/en/download/). <br/>
 Download the Node installer. <br/>
 
