@@ -49,7 +49,7 @@ One of the memorables error is "require", it is not supported in browsers like C
 
 "cachedCwd = rawMethods.cwd(); --> This is another memborable error found in Terminal. Restart the pc or clear the cache will help to solve the error. 
 
-Best tool to use for troubleshooting is F12. Always use this for see erros on the websites. :) 
+Best tool to use for troubleshooting is F12. Always use this tool to view errors on the websites for troubleshooting. :) 
 
 I came errors during troubleshooting of Javascript but i forgot to write it down. As i was busy debugging the errors. 
 
