@@ -12,6 +12,11 @@ The Model represent the data that is being transferred between the View and Cont
 <b> Controller </b> <br/>
 Controllers act as an interface between Model and View components to process all the logic, manipulate data using the Model component and interact with the Views to render the final output. Controller will take in the incoming requests from the users and update the database (Model). 
 
+<b> MVC for my website </b> <br/>
+view.html -> View <br/>
+controller.js -> Controller <br/>
+basemodel.js -> Model <br/>
+
 <b>Prior Experience </b> <br/>
 Linux Commands: Using Terminal to install modules. I am using Linux commands in my current job. I am able to use the Terminal immediately as the commands are familiar to me. 
 Node.js is not a new thing for me to learn. As i have instlled Node.js and some modules before in my previous company. I can install Node.js and npm immediately follow by other modules and i know modules are required for Javascript. As this is the basic of Javascript. 
@@ -53,6 +58,6 @@ Alot of times spent on researching errors online and do step by step troubleshoo
 When come to Javscript development, we got to think in "Modules". It helps in troubleshooting Javascript codes. 
 
 <b>Note</b> <br/>
-Got to allocate few hours doing research, watch youtube videos and read blogs in the middle of the weekday nights as i got to work during the day and studying for my exam during evening time. Spent half of the time doing this development and spend half of the time studying for my exam during weekend. I got manage my time well in order to make use of the time. 
+Got to allocate few hours doing research, watch youtube videos and read blogs in the middle of the late weekday nights as i got to work during the day and studying for my exam during evening time. Spent half of the time doing this development and spend half of the time studying for my exam during weekend. I got manage my time well in order to make use of the time. 
 
 
